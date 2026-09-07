@@ -1,5 +1,7 @@
 change the readme file #1
 
+this will change the readme file to test the branch merging #2
+
 # Todo List App
 
 A simple Todo List application built using HTML, CSS, and JavaScript.
