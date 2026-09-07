@@ -1,0 +1,13 @@
+{
+  "name": "todo-list-app",
+  "version": "1.0.0",
+  "description": "Student Task Manager Web Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
