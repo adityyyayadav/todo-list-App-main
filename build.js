@@ -1,5 +1,4 @@
 const fs = require('fs');
-
 const requiredFiles = [
     'app.js',
     'package.json',
