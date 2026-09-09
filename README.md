@@ -8,6 +8,8 @@ this is real change from feature2
 
 this is change on ubuntu
 
+linux changes
+
 # Todo List App
 
 A simple Todo List application built using HTML, CSS, and JavaScript.
