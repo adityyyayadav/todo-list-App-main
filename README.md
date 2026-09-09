@@ -10,6 +10,8 @@ this is change on ubuntu
 
 linux changes
 
+new changes
+
 # Todo List App
 
 A simple Todo List application built using HTML, CSS, and JavaScript.
