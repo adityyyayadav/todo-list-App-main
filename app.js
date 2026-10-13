@@ -5,7 +5,7 @@ const client = require('prom-client');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Step 1: Serve static files from the public folder
+// Serve static files from the public folder
 app.use(express.static(path.join(__dirname, 'public')));
 
 // Step 2: Enable default Node.js metrics
