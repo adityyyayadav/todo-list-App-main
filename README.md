@@ -1,25 +1,3 @@
-change the readme file #1
-
-this will change the readme file to test the branch merging #2
-
-this is feature #2 changes...
-
-this is real change from feature2
-
-this is change on ubuntu
-
-linux changes
-
-new changes
-
-next changes
-
-docker changes
-
-wow
-
-
-this is the CHANGES FOR FEAT1
 
 # Todo List App
 
@@ -59,3 +37,5 @@ This project is based on [todo-list-app] by [Ankit yadav].
 
 License
 This project is licensed under the [Theminacious] License - see the LICENSE.md file for details.
+
+new changes
